@@ -1,0 +1,13 @@
+Assistant checkpoint: Fixed Discord UI imports and class inheritance
+
+Assistant generated file changes:
+- main.py: Add missing discord.ui import, Fix Modal class inheritance, Fix TextInput usage in PollConfigModal, Fix PollEditModal class inheritance, Fix TextInput usage in PollEditModal, Fix ImageUploadModal class inheritance, Fix TextInput usage in ImageUploadModal, Fix AdvancedPollView class inheritance, Fix PollVoteButton class inheritance
+
+---
+
+User prompt:
+
+Add missing discord import ui and correct class inheritance
+
+Replit-Commit-Author: Assistant
+Replit-Commit-Session-Id: 2b873891-02d1-4a1d-a070-aa79ab49fb62
